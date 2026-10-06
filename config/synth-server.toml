@@ -1,0 +1,62 @@
+#Synth: server-side presentation settings.
+#No public-server role/group system is included.
+#Templates use lightweight Component markup and placeholders.
+#Legacy formatting with '&' is also supported, including '&#RRGGBB'.
+[general]
+	#Master switch for Synth features.
+	enabled = true
+	#Java DateTimeFormatter pattern used by {time}.
+	time_format = "HH:mm:ss"
+
+[chat]
+	enabled = true
+	#Display-name template used by vanilla chat/nameplate/tab display hooks.
+	#The standard Minecraft chat renderer remains enabled.
+	#Placeholders: {prefix} {name} {suffix} and all player/server placeholders.
+	name_format = "{prefix}<gradient:#55AAFF:#AA55FF><bold>{name}</bold></gradient>{suffix}"
+	#Rich Component template used for the message body.
+	#Placeholders: {message} {raw_message} {time} {world} {dimension} {ping} {tps} {mspt}
+	#Also: {players} {max_players} {x} {y} {z} {gamemode} {health} {food} {level} {uuid}
+	#Markup: <bold>...</bold>, <italic>...</italic>, <color:#RRGGBB>...</color>,
+	#<gradient:#RRGGBB:#RRGGBB>...</gradient>, <hover:text>...</hover>,
+	#<click:RUN_COMMAND:/msg {name}>...</click>, and <br>.
+	format = "{message}"
+	default_prefix = ""
+	default_suffix = ""
+	default_name_color = "white"
+	default_message_color = "white"
+
+[nametag]
+	enabled = false
+
+[tab]
+	#Enable Synth compact vanilla-style TAB overlay.
+	enabled = true
+	#Display-name template used by the TAB overlay.
+	#Default keeps the TAB name close to vanilla: prefix + name + suffix.
+	#Supported placeholders: {prefix} {name} {suffix} and the standard player/server placeholders.
+	name_format = "{prefix}{name}{suffix}"
+
+[restart]
+	#Enable automatic server restarts. Disabled by default to avoid an unexpected shutdown after installing Synth.
+	enabled = true
+	#Restart cadence in whole hours. 1 means every hour, 2 every two hours, etc.
+	# Default: 1
+	# Range: 1 ~ 24
+	interval_hours = 1
+	#Minute of the hour when the restart starts (0-59), using the server machine's local time.
+	# Default: 0
+	# Range: 0 ~ 59
+	minute = 0
+	#Seconds before the final countdown when the small center-screen warning is shown.
+	# Default: 60
+	# Range: 5 ~ 3600
+	warning_seconds = 60
+	#Final centered countdown duration. Recommended: 15 seconds.
+	# Default: 15
+	# Range: 3 ~ 60
+	countdown_seconds = 10
+	#Command used to relaunch the server after shutdown.
+	#'auto' detects run.bat/run.sh in the server folder.
+	#A custom command is executed from the server directory. If no launcher is found, Synth stops cleanly instead.
+	command = "auto"

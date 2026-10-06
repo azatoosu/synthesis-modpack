@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "d0fbd6ba05d14a5056fbcc4c6076553b2d5d9065863329fcd4e5ec02b449df29"
+
+[[files]]
 file = "config/adorablehamsterpets/ui.toml"
 hash = "773c7d97beb045c3ed2d505cf32d4a7d5d2faf0e33476234bfa934a590e2d105"
 
@@ -81,8 +85,8 @@ file = "config/modern_industrialization-startup.toml"
 hash = "031dcae6cf11b4e2578e2b235bb6fb4cc462a9540092400666a8b58266e8d48d"
 
 [[files]]
-file = "config/tablist-common.toml"
-hash = "3c0c845d4f7278bff610c23f92a0d2054a53e35ec248b0d0e8477c93b70fa000"
+file = "config/synth-server.toml"
+hash = "06ab61452ac0c47a4f2a3dd77eb519883ba10e7ec8810c34eb964b9639be19c8"
 
 [[files]]
 file = "config/voicechat/category-volumes.properties"
@@ -154,6 +158,10 @@ hash = "2d918a9c3658659bd3ae3a3d693556d252f14be277e67ad2f40c8bb92506844d"
 
 [[files]]
 file = "kubejs/data/ae2/tags/worldgen/biome/has_meteorites.json"
+hash = "9764bd17282f1567712b2ae661b8f9bf8e97006a8382a03a847dd72dd90df8ac"
+
+[[files]]
+file = "kubejs/data/data_energistics/tags/worldgen/biome/has_meteorites.json"
 hash = "9764bd17282f1567712b2ae661b8f9bf8e97006a8382a03a847dd72dd90df8ac"
 
 [[files]]
@@ -895,10 +903,6 @@ hash = "d67e618750cb3dcd9c1c52702f52ffb8b8723cfd3ece7c75ad333ac9b1720932"
 metafile = true
 
 [[files]]
-file = "mods/highseas-0.2.2.jar"
-hash = "f5285fdc00ec71b7473acdc9099ea93387019f9c0a243a7da98b076d1d672941"
-
-[[files]]
 file = "mods/hybrid-api.pw.toml"
 hash = "6e317343ea37f9842b317f0440ba5f7ef71a24cfb6c7c3f243f63d00fd5782c3"
 metafile = true
@@ -919,8 +923,23 @@ hash = "ab503e89461dff879ee793253e173625b6ab868f570a371323ef725e567cf5ea"
 metafile = true
 
 [[files]]
+file = "mods/iris-flywheel-compat.pw.toml"
+hash = "b09dfb336204fb3b61342f4e5310ef57d9913b32bfa8d256b5225fc10f535cf0"
+metafile = true
+
+[[files]]
+file = "mods/iris-veil-compat.pw.toml"
+hash = "b476c11bda5022790fab2474dbdae4a21b23c84d652615ab1e7678503f6d3888"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
+metafile = true
+
+[[files]]
+file = "mods/irisshaders.pw.toml"
+hash = "763ed0c115b2b9a1e37e38cb153748c9c3f3c31869fd3d56acfaad54c63e78af"
 metafile = true
 
 [[files]]
@@ -999,6 +1018,11 @@ hash = "00bacfc5a98d9b0dff90bbad503def28abf970a2061c9456f721e442bc32ab29"
 metafile = true
 
 [[files]]
+file = "mods/lanterns-bow.pw.toml"
+hash = "11668c27fc268db5ba9dc81d6fb5ce5b8eed0ec0d911606a27065a07bf16a1a6"
+metafile = true
+
+[[files]]
 file = "mods/ldlib.pw.toml"
 hash = "a57064a0b2f76d1940893fe8e4d6b6a57554fd27d32da88dcf152acfef223383"
 metafile = true
@@ -1021,11 +1045,6 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "0d3683a8c533e1fb67bf0b1668089a322fc5f594f9610d441657378ab4f64383"
-metafile = true
-
-[[files]]
-file = "mods/lucis.pw.toml"
-hash = "5c72f29752fd3444771566f8f018f38ae101a9fb482c1bd9d9f2b1e129cd146e"
 metafile = true
 
 [[files]]
@@ -1209,6 +1228,11 @@ hash = "7218a06fa27c0bfaa0e6f7db00842b1de5d45aa2a3573bc76cb11930a075d76b"
 metafile = true
 
 [[files]]
+file = "mods/seamless-sleep.pw.toml"
+hash = "2ad800931c3c659fc2b01ee237ac2c0edf0ace3cdb5ff2022ac69505629d99c2"
+metafile = true
+
+[[files]]
 file = "mods/shtreimel-sable-server-utility.pw.toml"
 hash = "0028b6c611ab425327e8d54aa6f77094d6e5b2378e189773c039e9b24995f229"
 metafile = true
@@ -1221,6 +1245,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "8045c493b0eb0196880817b529417742bb65b250805cc14f7abe5ac5f1e4d4b1"
+metafile = true
+
+[[files]]
+file = "mods/sleeping-bags.pw.toml"
+hash = "9de3675bdd0908ab4220da1b20343e2beed5b35805dd30fcc1ad84b14bf72398"
 metafile = true
 
 [[files]]
@@ -1240,7 +1269,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
+hash = "617ec6e9893d59905035a510fe336addd46a97b6fd28fad88b70713ebf8e69e3"
 metafile = true
 
 [[files]]
@@ -1294,9 +1323,8 @@ hash = "71a0020d9e46242e4445a06fff9ca1dd5600ca8a6bc38629b07eb1182d1dc2ab"
 metafile = true
 
 [[files]]
-file = "mods/tab-list.pw.toml"
-hash = "26be13b22732541b37f834371723835888f16459f5c33252694f258109f94c25"
-metafile = true
+file = "mods/synth-0.10.0.jar"
+hash = "01ce472f9abccbdc2b696fe3dcf7830aaa7de3da84abca61b8be89f94f03be32"
 
 [[files]]
 file = "mods/tectonic.pw.toml"
@@ -1349,7 +1377,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "492daa3391b6079b541685db276007b286774bab3b9881505127b7aef6b3f16c"
+hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
 
 [[files]]
