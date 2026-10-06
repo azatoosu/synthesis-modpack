@@ -1,0 +1,13 @@
+name = "Creative Tab Organizer (CTO)"
+filename = "tab_organizer-2.4.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6WgGzOtD/versions/Bm8xWT4i/tab_organizer-2.4.1-neoforge.jar"
+hash-format = "sha512"
+hash = "c60cf053790e505d2f4d06949537586cf412dab04f36f0719265fb809437efa84ef32e8179171a9c38d6af9cc4126437f7ec44fb042f3775afd9de6eb0be008e"
+
+[update]
+[update.modrinth]
+mod-id = "6WgGzOtD"
+version = "Bm8xWT4i"

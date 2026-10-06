@@ -1,0 +1,13 @@
+name = "Cyberspace"
+filename = "Cyberspace 5.0.2 (NF1.21.1).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vR7IsaZr/versions/HlbW3s0I/Cyberspace%205.0.2%20%28NF1.21.1%29.jar"
+hash-format = "sha512"
+hash = "699a3bcb220665e4fe79ab9c5c07bf04293e83f8e76c0e77240b06825fa5dfa35a2c51a0531f981de348480d6e5ec5920775645789373006dea83feb296234dc"
+
+[update]
+[update.modrinth]
+mod-id = "vR7IsaZr"
+version = "HlbW3s0I"

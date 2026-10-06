@@ -1,0 +1,13 @@
+name = "Synthesis"
+author = "shierru_r"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "549eb0c3ca6cb39f4e0ce084854da77e854f3a02791d9cb8a1b0f700f4d242c2"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.252"

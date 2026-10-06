@@ -1,0 +1,13 @@
+name = "Female Plastic Surgery: Bust Limit Tweaker"
+filename = "FemalePlasticSurgery-neoforge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "146ff4b53dd9233a1806a125195ab00f8c270c0d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6080028
+project-id = 1178067

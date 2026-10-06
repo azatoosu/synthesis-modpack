@@ -1,0 +1,11 @@
+[general]
+	enabled = true
+	cost = 150
+	starter = false
+	per_spell_limit = 2
+	glyph_tier = 3
+	augment_limits = []
+	augment_cost_overrides = []
+	invalid_combos = []
+	distance = 8
+	amplify = 2.0

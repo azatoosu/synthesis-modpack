@@ -1,0 +1,3 @@
+[TabList]
+	header = "#N             &a&lSynthesis           #N&a&l&m    #N"
+	footer = "#N&fᴏɴʟɪɴᴇ: &e#PLAYERCOUNT &f| ᴘɪɴɢ: &e#PING#N&fᴛᴘꜱ: &e#TPS &f| ᴍꜱᴘᴛ: &e#MSPT#N"

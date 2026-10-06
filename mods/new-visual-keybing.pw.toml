@@ -1,0 +1,13 @@
+name = "New Visual Keybing"
+filename = "New Visual Keybing-neoforge-1.21.1-0.9.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jUO7wMKn/versions/JxOiB9WV/New%20Visual%20Keybing-neoforge-1.21.1-0.9.4.jar"
+hash-format = "sha512"
+hash = "087190b4e7a744f5ccc637b0699d0e60cdd574b5c2f45db97656642efed93ce1274ad7b46c352b7be507f8b2a3f6b1412deed56d7143d041077a37b91a61ddba"
+
+[update]
+[update.modrinth]
+mod-id = "jUO7wMKn"
+version = "JxOiB9WV"

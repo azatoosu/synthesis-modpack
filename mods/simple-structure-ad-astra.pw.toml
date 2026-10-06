@@ -1,0 +1,13 @@
+name = "Simple Structures: Ad Astra"
+filename = "Simple Structures Ad Astra 1.21.1 1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pHMBwRFe/versions/R5nG6gOI/Simple%20Structures%20Ad%20Astra%201.21.1%201.3.jar"
+hash-format = "sha512"
+hash = "173e66376389fea43007a78a15f6a89e024e3c0fd8e26f1f321429ecb4e83730a607f39910ff8f11973b1126fe0131a9aa362e9b4f468c58e6d54cca158e26c5"
+
+[update]
+[update.modrinth]
+mod-id = "pHMBwRFe"
+version = "R5nG6gOI"

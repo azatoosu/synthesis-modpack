@@ -1,0 +1,13 @@
+name = "Bee Mastery"
+filename = "beemastery_1.21.1-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5sUJsuwm/versions/J9wN9hY6/beemastery_1.21.1-1.2.0.jar"
+hash-format = "sha512"
+hash = "5fef2f08d00663098e9e44af238d92c07745edc3be0aa9399cc14ec5257b3b9c12950abccf8e25f9de189d04cc3ff1172ca6a6ddfcf48aa76afa9f60da6f8a39"
+
+[update]
+[update.modrinth]
+mod-id = "5sUJsuwm"
+version = "J9wN9hY6"

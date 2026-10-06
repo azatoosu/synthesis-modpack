@@ -1,0 +1,6 @@
+[general]
+    enabled = true
+    cost = 60
+    starter = false
+    per_spell_limit = 1
+    glyph_tier = 2

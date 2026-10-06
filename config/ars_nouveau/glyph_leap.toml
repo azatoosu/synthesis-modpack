@@ -1,0 +1,14 @@
+[general]
+	enabled = true
+	cost = 75
+	starter = false
+	per_spell_limit = 1
+	glyph_tier = 2
+	augment_limits = [
+		"ars_nouveau:glyph_sensitive=1"
+	]
+	augment_cost_overrides = []
+	invalid_combos = []
+	force_ground = false
+	knock_up = 1.5
+	amplify = 0.75

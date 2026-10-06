@@ -1,0 +1,13 @@
+[general]
+	enabled = true
+	cost = 30
+	starter = true
+	per_spell_limit = 1
+	glyph_tier = 1
+	augment_limits = ["ars_nouveau:glyph_amplify=1"]
+	augment_cost_overrides = []
+	invalid_combos = []
+	damage = 4.0
+	amplify = 1.5
+	potion_time = 5
+	extend_time = 5
