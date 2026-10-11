@@ -52,4 +52,4 @@ jobs:
             -o IdentitiesOnly=yes \
             -o StrictHostKeyChecking=yes \
             "$VPS_USER@$VPS_HOST" \
-            'cd /var/www/html/synthesis-modpack && git pull --ff-only origin main'
+            'cd /var/www/html/synthesis-modpack && git restore -- index.toml && git pull --ff-only origin main && packwiz refresh --build'
