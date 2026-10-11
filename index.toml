@@ -6,7 +6,7 @@ hash = "773c7d97beb045c3ed2d505cf32d4a7d5d2faf0e33476234bfa934a590e2d105"
 
 [[files]]
 file = "config/ars_nouveau/glyph_amplify.toml"
-hash = "bd72c797b3227f64296089663e167c5de4c2862209b1372e1ebe32e89a13ad10"
+hash = "f9bf2722814d0b5aa6ab38fb98e5ba7d07bf0717cf33dd921414420035ee43d8"
 
 [[files]]
 file = "config/ars_nouveau/glyph_animate_block.toml"
