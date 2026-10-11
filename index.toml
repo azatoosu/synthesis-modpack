@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "99b9f50b842effedd31d590b202f56065f1d57cae5138387637e6f2ade2b2c93"
-
-[[files]]
 file = "config/adorablehamsterpets/ui.toml"
 hash = "773c7d97beb045c3ed2d505cf32d4a7d5d2faf0e33476234bfa934a590e2d105"
 
