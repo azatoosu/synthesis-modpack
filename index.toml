@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "d0fbd6ba05d14a5056fbcc4c6076553b2d5d9065863329fcd4e5ec02b449df29"
+hash = "99b9f50b842effedd31d590b202f56065f1d57cae5138387637e6f2ade2b2c93"
 
 [[files]]
 file = "config/adorablehamsterpets/ui.toml"
