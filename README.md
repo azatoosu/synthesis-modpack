@@ -28,28 +28,6 @@ packwiz cf export
 
 This will create a `.zip` file that can be imported into launchers supporting the CurseForge modpack format.
 
-### Packwiz Installer
-
-The modpack can also be distributed directly using `packwiz-installer`. This allows players to install and update the modpack directly from the Packwiz repository without manually exporting a modpack file.
-
-Run:
-
-```bash
-java -jar packwiz-installer-bootstrap.jar <PACKWIZ_INDEX_URL>
-```
-
-Replace `<PACKWIZ_INDEX_URL>` with the URL of the `pack.toml` file hosted online.
-
-For example:
-
-```bash
-java -jar packwiz-installer-bootstrap.jar https://example.com/pack.toml
-```
-
-After installation, `packwiz-installer` can be run again to update the modpack to the latest version.
-
-> **Note:** The `pack.toml` file must be accessible via a direct HTTP(S) URL for `packwiz-installer` to use it.
-
 ## Updating
 
 After making changes to the modpack, export it again using the required format or run `packwiz-installer` to update an existing installation.
