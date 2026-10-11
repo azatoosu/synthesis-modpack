@@ -13,4 +13,8 @@ ServerEvents.recipes(event => {
   event.remove({ id: "ad_astra:steel_ingot" });
 
   event.remove({ id: "modern_industrialization:materials/steel/craft/ingot_from_nugget" });
+
+  event.remove({ id: "forestry:bronze_gear" });
+  event.remove({ id: "forestry:tin_gear" });
+  event.remove({ id: "forestry:copper_gear" });
 });
