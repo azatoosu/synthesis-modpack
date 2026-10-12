@@ -6,6 +6,11 @@ ServerEvents.recipes(event => {
   event.remove({ id: "ad_astra:nasa_workbench" });
   event.remove({ id: "ad_astra:oxygen_gear" });
   event.remove({ id: "ad_astra:fuel_refinery" });
+
+  event.remove({ id: "ad_astra:tier_1_rocket" });
+  event.remove({ id: "ad_astra:tier_2_rocket" });
+  event.remove({ id: "ad_astra:tier_3_rocket" });
+  event.remove({ id: "ad_astra:tier_4_rocket" });
   
   event.shaped(
     "ad_astra:coal_generator",
