@@ -181,6 +181,54 @@ file = "kubejs/data/ad_astra/worldgen/configured_feature/venus_calorite_ore.json
 hash = "2d918a9c3658659bd3ae3a3d693556d252f14be277e67ad2f40c8bb92506844d"
 
 [[files]]
+file = "kubejs/data/ad_astra_more_structures/loot_table/chests/common_glacio.json"
+hash = "6f06361df6fb8d43d67ce00756a1d66b9014a82c0bb0ad317764d13dfa583a32"
+
+[[files]]
+file = "kubejs/data/ad_astra_more_structures/loot_table/chests/common_mars.json"
+hash = "52e5cdcc2a7ea4a2fd59eae942ff9b4d96eecb5b91ddf95bfe3b7f733095d269"
+
+[[files]]
+file = "kubejs/data/ad_astra_more_structures/loot_table/chests/common_mercury.json"
+hash = "e5c645e7e80abd58a4a5f855000511564c35dd13cfc2017fc5a43c1f1ebd9730"
+
+[[files]]
+file = "kubejs/data/ad_astra_more_structures/loot_table/chests/common_moon.json"
+hash = "e29831f22198cd9b5ef2f9d62ffa2d0298cfc2d6b0fbacb90dca136b8e7edcfb"
+
+[[files]]
+file = "kubejs/data/ad_astra_more_structures/loot_table/chests/common_other.json"
+hash = "451c7b94a345162aa398f1c4d5203c7a392c75a8cf3b0cbed40797a6c8f47afe"
+
+[[files]]
+file = "kubejs/data/ad_astra_more_structures/loot_table/chests/common_venus.json"
+hash = "8b557a20c67eb0a50b1169599913524d1e7ba359a8ea8ac8ed3d9b2009f3ea40"
+
+[[files]]
+file = "kubejs/data/ad_astra_more_structures/loot_table/chests/rare_glacio.json"
+hash = "32fa0402fa17b6176806e2f8c3d2da2552ad39b6b1d8bc4d16a28bf0e9af6d5b"
+
+[[files]]
+file = "kubejs/data/ad_astra_more_structures/loot_table/chests/rare_mars.json"
+hash = "32fa0402fa17b6176806e2f8c3d2da2552ad39b6b1d8bc4d16a28bf0e9af6d5b"
+
+[[files]]
+file = "kubejs/data/ad_astra_more_structures/loot_table/chests/rare_mercury.json"
+hash = "32fa0402fa17b6176806e2f8c3d2da2552ad39b6b1d8bc4d16a28bf0e9af6d5b"
+
+[[files]]
+file = "kubejs/data/ad_astra_more_structures/loot_table/chests/rare_moon.json"
+hash = "32fa0402fa17b6176806e2f8c3d2da2552ad39b6b1d8bc4d16a28bf0e9af6d5b"
+
+[[files]]
+file = "kubejs/data/ad_astra_more_structures/loot_table/chests/rare_other.json"
+hash = "b276f376bf50de90055868ed422fe1a2083e96bf355c72f0bf4b6646b157a30b"
+
+[[files]]
+file = "kubejs/data/ad_astra_more_structures/loot_table/chests/rare_venus.json"
+hash = "32fa0402fa17b6176806e2f8c3d2da2552ad39b6b1d8bc4d16a28bf0e9af6d5b"
+
+[[files]]
 file = "kubejs/data/ae2/tags/worldgen/biome/has_meteorites.json"
 hash = "9764bd17282f1567712b2ae661b8f9bf8e97006a8382a03a847dd72dd90df8ac"
 
@@ -202,7 +250,11 @@ hash = "be5150d5daaeab48a25ce90585376527202dcdfbfb289f693436211106bbe097"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/ad_astra/00_export.js"
-hash = "d94f99e16459af5bc19be3c90f259a26e2b96a98e2bdd7f59e40bb0a3e2a9e9a"
+hash = "e7e43592ef45421a4af821c340b2a642133db32b01c0ce3a5e30fc47031d210d"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/ad_astra/10_rockets.js"
+hash = "f631f4fcf9fd87552a4cadc35cb2fe80c83f1af5c70ea3473c529324c5dcee56"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/ae2/00_export.js"
@@ -1013,6 +1065,11 @@ hash = "750f4b552490779af147a9c70a558ab2aa1cbfd8331d5ad69efefa099854dfae"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "cfc4d1bcc1ff43a45933e05db06fe8e2e607b01304ec4810544b6d7179668b54"
+metafile = true
+
+[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "783ed30ab6f6f60c604b9bdc2f26ec5b23c7a523179aa17119dbc541f7149022"
 metafile = true
@@ -1105,6 +1162,11 @@ metafile = true
 [[files]]
 file = "mods/medieval-buildings-end-edition.pw.toml"
 hash = "5855b42da2de4eee5939cef1c09cb1ecc0b29f04c20d878959917af36d4ed7de"
+metafile = true
+
+[[files]]
+file = "mods/mezzconfig.pw.toml"
+hash = "cf5d87f046590b99d92096a79f6ea2f456290ba5d423c256f06674d2d10a1592"
 metafile = true
 
 [[files]]
