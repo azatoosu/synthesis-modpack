@@ -53,3 +53,17 @@ jobs:
             -o StrictHostKeyChecking=yes \
             "$VPS_USER@$VPS_HOST" \
             'cd /var/www/html/synthesis-modpack && git restore -- pack.toml index.toml && git pull --ff-only origin main && packwiz refresh --build'
+
+      - name: Notify Telegram
+        uses: appleboy/telegram-action@v1
+        with:
+          to: ${{ secrets.TELEGRAM_TO }}
+          token: ${{ secrets.TELEGRAM_TOKEN }}
+          format: html
+          message: |
+            🧩 <b>Synthesis Modpack обновлён!</b>
+
+            💬 <b>Изменения:</b>
+            ${{ github.event.head_commit.message || 'Ручной запуск деплоя' }}
+
+            🔗 <a href="${{ github.server_url }}/${{ github.repository }}/commit/${{ github.sha }}">Посмотреть изменения</a>

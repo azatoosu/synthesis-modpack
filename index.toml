@@ -1312,6 +1312,11 @@ hash = "8045c493b0eb0196880817b529417742bb65b250805cc14f7abe5ac5f1e4d4b1"
 metafile = true
 
 [[files]]
+file = "mods/simulated-copycats.pw.toml"
+hash = "d51634fccfc5064d7f60f8863ba9b83c489d8e62e68f5d431f7c9fa7434a4c98"
+metafile = true
+
+[[files]]
 file = "mods/sleeping-bags.pw.toml"
 hash = "9de3675bdd0908ab4220da1b20343e2beed5b35805dd30fcc1ad84b14bf72398"
 metafile = true
