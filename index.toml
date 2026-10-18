@@ -933,11 +933,6 @@ hash = "4cf7eb494f48576e28895ee5f362878f95c6bad65372666106140fdae82d0c4c"
 metafile = true
 
 [[files]]
-file = "mods/gigeresque.pw.toml"
-hash = "29b7e184783ef77517e99d665be2d14332491bea31dfca96c6dbc1f761598e27"
-metafile = true
-
-[[files]]
 file = "mods/guideme.pw.toml"
 hash = "bc3920a3fb291a8bc8df9717233e54dd1c909b65528afbe1b617373c7b4b38c0"
 metafile = true
