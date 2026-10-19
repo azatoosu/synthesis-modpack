@@ -6,7 +6,7 @@ hash = "773c7d97beb045c3ed2d505cf32d4a7d5d2faf0e33476234bfa934a590e2d105"
 
 [[files]]
 file = "config/ars_nouveau/glyph_amplify.toml"
-hash = "bd72c797b3227f64296089663e167c5de4c2862209b1372e1ebe32e89a13ad10"
+hash = "f9bf2722814d0b5aa6ab38fb98e5ba7d07bf0717cf33dd921414420035ee43d8"
 
 [[files]]
 file = "config/ars_nouveau/glyph_animate_block.toml"
@@ -14,7 +14,7 @@ hash = "8fd08d5d2a76490cdb050d164d21af64ace0f4970e2de8db102b0a08b5078ddf"
 
 [[files]]
 file = "config/ars_nouveau/glyph_blink.toml"
-hash = "fc26c0dd3a21b5745540bc879cf5f2d44626021b5f08756d62e5e4e2bb293ee1"
+hash = "8d281d8e38423d77cd50c7e5c4b23ebe6741fc02be4367029a237002f83fec99"
 
 [[files]]
 file = "config/ars_nouveau/glyph_exchange.toml"
@@ -22,23 +22,23 @@ hash = "40bd67d4544ea36cceb54423fa71270e0308db968f6335d5fb2e5b194da7cc4a"
 
 [[files]]
 file = "config/ars_nouveau/glyph_explosion.toml"
-hash = "a0e9943a80d998fb779194b1f7c763425f279c640cf7373553bbb84eb8a53149"
+hash = "3210ddb8bd99f058829ad395f6ff63efb85a2626e89eeefa6add7356359fd800"
 
 [[files]]
 file = "config/ars_nouveau/glyph_fangs.toml"
-hash = "099ee0d0934d9479f88e7196a0b6ea7c3125830e1cc70a9280b2508002a3f213"
+hash = "16918467a874845c5e10b945d07306b8c2ea82895cf841d328950580b88fb422"
 
 [[files]]
 file = "config/ars_nouveau/glyph_harm.toml"
-hash = "4d55389bb64d6cb2a76beca365d4fc01f1dc9086aaf0852202f380ff83226a38"
+hash = "cd01795876ecccdca83f32ad02c01170e2aac794218f31b0385eb72e10f8e5b5"
 
 [[files]]
 file = "config/ars_nouveau/glyph_launch.toml"
-hash = "363cd79645f25c1f94b5cca6912689a0e4b88ce15813a97ab8c67d9837490545"
+hash = "eee161470ee35ee91ece9f6b22e0535fa1aac7775a1465f94746319b341d70c0"
 
 [[files]]
 file = "config/ars_nouveau/glyph_leap.toml"
-hash = "f921a6eeec95a47ae591d3bdb95273fa01856f341dd725158b0a466db5cb02cf"
+hash = "a20272ac2b8fa5787962283b394d7d4849801b54276483a4c0d85eb584a211c7"
 
 [[files]]
 file = "config/explosionoverhaul/DestroyingBlacklist.json"
@@ -604,7 +604,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-deep-seas.pw.toml"
-hash = "d13664474b8a9e6f2c540f6581f99cd887631707b663daa4c0eb203c02d9e509"
+hash = "b0c2ee7a02cba23cd306b324f158518264868cd3b1542346bf325e25f76d41a2"
 metafile = true
 
 [[files]]
@@ -1387,8 +1387,8 @@ hash = "71a0020d9e46242e4445a06fff9ca1dd5600ca8a6bc38629b07eb1182d1dc2ab"
 metafile = true
 
 [[files]]
-file = "mods/synth-0.24.2.jar"
-hash = "bb8b859a72c1ac5a0405cd036c2c00fa55ac2c96108055edf5645bf6038f2ad6"
+file = "mods/synth-0.26.0.jar"
+hash = "20434298e3396e6203234556d723c79af6705e5df310c504388968a1f23808bf"
 
 [[files]]
 file = "mods/tectonic.pw.toml"
@@ -1434,10 +1434,6 @@ metafile = true
 file = "mods/voicemessages.pw.toml"
 hash = "4a3a337ac2a931da15c6f965e4a3d002faa434946d9371215df55f9ba9d5eac1"
 metafile = true
-
-[[files]]
-file = "mods/voxy-0.2.9-alpha.jar"
-hash = "97010f1f3e94a27bcdecf5bffdeb850c510c0c028ab15354ea16ae99283d5b49"
 
 [[files]]
 file = "mods/voxy-server-side.pw.toml"
