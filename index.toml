@@ -41,6 +41,10 @@ file = "config/ars_nouveau/glyph_leap.toml"
 hash = "a20272ac2b8fa5787962283b394d7d4849801b54276483a4c0d85eb584a211c7"
 
 [[files]]
+file = "config/create_submarine-server.toml"
+hash = "5a41c169af6339af8b8eabf232f4442d84e1714ae391602ba0e07444da5d2597"
+
+[[files]]
 file = "config/explosionoverhaul/DestroyingBlacklist.json"
 hash = "f9e0c580935608fbe48158370464aa1df79225cb448a6ea6846dfffdd4fcc5d1"
 
@@ -759,7 +763,7 @@ metafile = true
 
 [[files]]
 file = "mods/data-energistics.pw.toml"
-hash = "0b3afcf5c20aa0bde563c159aaebc26c636a8a8a533ed02de0be0ed3a5a36731"
+hash = "08de30259add5a1b218e52c0e222e92f4808f4fa2afe06b6861e259fe38638cb"
 metafile = true
 
 [[files]]
